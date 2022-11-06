@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the new blog",
+            "body": "Quisque imperdiet eget nunc at consequat. Praesent euismod a magna eget efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tincidunt vehicula sollicitudin. Quisque nec porttitor leo. Donec maximus, turpis tincidunt cursus ornare, neque mi iaculis velit, ut bibendum massa odio nec erat. Aenean sed urna ante. Donec fringilla, mauris eu sagittis rutrum, ipsum mi fermentum turpis, ut consequat est ipsum quis sem. Ut hendrerit elit vitae ante dignissim aliquam. Maecenas varius tempor scelerisque. Sed sodales dignissim lobortis. In tristique, est id iaculis congue, sem nisi porta felis, blandit pulvinar enim erat ultricies justo. Mauris vulputate leo lorem, at lobortis nibh cursus non. Cras id quam varius, vestibulum libero in, tincidunt lorem.",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 CSS tips",
+            "body": "Quisque imperdiet eget nunc at consequat. Praesent euismod a magna eget efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tincidunt vehicula sollicitudin. Quisque nec porttitor leo. Donec maximus, turpis tincidunt cursus ornare, neque mi iaculis velit, ut bibendum massa odio nec erat. Aenean sed urna ante. Donec fringilla, mauris eu sagittis rutrum, ipsum mi fermentum turpis, ut consequat est ipsum quis sem. Ut hendrerit elit vitae ante dignissim aliquam. Maecenas varius tempor scelerisque. Sed sodales dignissim lobortis. In tristique, est id iaculis congue, sem nisi porta felis, blandit pulvinar enim erat ultricies justo. Mauris vulputate leo lorem, at lobortis nibh cursus non. Cras id quam varius, vestibulum libero in, tincidunt lorem.",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
